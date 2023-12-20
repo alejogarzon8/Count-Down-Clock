@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: #252A2E;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #1CB698;
+    font-size: 40px;
+}
+
+table {
+    margin: auto;
+}
+
+th {
+    color: #1CB698;
+}
+
+input {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button {
+    min-width: 120px;
+    margin: 20px 10px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #1CB698;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    color: #1CB698;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.time {
+    background-color: rgb(20, 20, 20);
+    color: #1CB698;
+    font-size: 100px;
+    width: 150px;
+    margin: 0 10px;
+}
